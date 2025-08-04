@@ -100,7 +100,6 @@ function setLanguage(lang) {
   document.querySelectorAll('[data-i18n-key]').forEach(el => {
     const key = el.getAttribute('data-i18n-key');
     if (translations[lang] && translations[lang][key]) {
-      // Если это список (ul), ставим innerHTML, иначе textContent
       if (el.tagName.toLowerCase() === 'ul') {
         el.innerHTML = translations[lang][key];
       } else {
