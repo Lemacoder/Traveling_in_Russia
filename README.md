@@ -1,5 +1,11 @@
 # Проект: Путешествие по России
 
+## Используемые технологии: 
+
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-090909?style=for-the-badge&logo=html5&logoColor=e44d26)
+![JS](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
 ## Что реализованно: 
 
 В рамках данного проекта, было знакомство с Figma, работа с Html и CSS, исползование адаптивной верстки. 
